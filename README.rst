@@ -11,8 +11,6 @@ Experiments with generating comics
 
 * Free software: MIT license
 
-* Documentation: https://docs.kave.io/packages/BeingGan/latest/
-
 
 Installation
 ------------
@@ -23,7 +21,7 @@ To install, get the code from the git:
 
 .. code-block::
 
-    git clone https://git.kpmg.nl/KPMG-NL-AABD/ResearchAndDevelopment//BeingGan.git
+    git clone https://github.com/Arsilla/BeingGan.git
     cd BeingGan
     pip install .
 

@@ -41,7 +41,7 @@ setup(
     setup_requires=setup_requirements,
     test_suite='tests',
     tests_require=test_requirements,
-    url='https://git.kpmg.nl/KPMG-NL-AABD/ResearchAndDevelopment//BeingGan',
+    url='https://github.com/Arsilla/BeingGan.git',
     version='0.1.0',
     zip_safe=False,
 )
